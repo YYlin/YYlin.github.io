@@ -1,1 +1,1 @@
-# The Third International Workshop on Knowledge Graph Management and Applications (KGMA 2020)
+# International Workshop on Deep Learning in Large-scale Unstructured Data Analytics (DeepLUDA 2020)
